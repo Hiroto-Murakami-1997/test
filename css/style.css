@@ -164,7 +164,7 @@ a {
 .article__inner {
   width: 70%;
   padding: 32px 12px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .article__head {
